@@ -1,0 +1,28 @@
+.navbar{
+    background-color: #7fdfff;
+    grid-area: s;
+}
+
+.item{
+    margin-bottom: 3px;
+    padding: 0 10px;
+}
+
+.nonactive{
+    color: #132138;
+    text-decoration: none;
+}
+
+.active{
+    color: #1e5273;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 17px;
+    border: solid 2px #1e5273;
+    border-radius: 5px;
+}
+
+.urls_list{
+    margin-left: 20px;
+    margin-top: 10px;
+}
